@@ -1,0 +1,140 @@
+#box {
+  width: 400px;
+  height: 300px;
+  position:absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+}
+
+#images {
+  width: 2000px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.closeTransition {
+  left: 0;
+  transition: all 0;
+}
+
+.first {
+  left: 0;
+  transition: all 0.5s;
+}
+
+.second {
+  left: -400px;
+  transition: all 0.5s;
+}
+
+.third {
+  left: -800px;
+  transition: all 0.5s;
+}
+
+.forth {
+  left: -1200px;
+  transition: all 0.5s;
+}
+
+.fifth {
+  left: -1600px;
+  transition: all 0.5s;
+}
+
+.virtual {
+  left: -2000px;
+  transition: all 0.5s;
+}
+
+.img {
+  width: 400px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+
+#img1 {
+  left: 0;
+}
+
+#img2 {
+  left: 400px;
+}
+
+#img3 {
+  left: 800px;
+}
+
+#img4 {
+  left: 1200px;
+}
+
+#img5 {
+  left: 1600px;
+}
+
+#img_virtual {
+  left: 2000px;
+}
+
+.prev, .next {
+  position: absolute;
+  top: 0;
+  width: 30px;
+  height: 300px;
+  text-align: center;
+  font-size: 32px;
+  background: #eee;
+  opacity: 0.3;
+  line-height: 300px;
+  cursor: pointer;
+}
+
+.prev:hover, .next:hover {
+  opacity: 0.5;
+}
+
+.prev.disabled, .next.disabled {
+  cursor: no-drop;
+}
+
+.prev {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+#indexes {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  height: 20px;
+  cursor: pointer;
+  z-index: 100;
+}
+
+.index {
+  float: left;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  background: #ccc;
+  text-align: center;
+  border-left: 1px solid #aaa;
+  box-sizing: border-box;
+}
+
+.index:hover {
+  color: #eee;
+}
+
+.activated {
+  background: #555;
+}
