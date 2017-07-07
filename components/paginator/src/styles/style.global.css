@@ -1,0 +1,78 @@
+#paginator-container {
+  width: 60%;
+  height: 350px;
+}
+
+#paginator-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#paginator-table tr {
+  border: 1px solid #eee;
+}
+
+#paginator-table td,
+#paginator-table th {
+  text-align: center;
+  height: 30px;
+  line-height: 30px;
+}
+
+#paginator-table th {
+  background: #337ab7;
+}
+
+#panel-container {
+  width: 100%;
+  height: 50px;
+}
+
+#panel-container .panelDiv {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  border: 1px solid #ddd;
+  line-height: 25px;
+  text-align: center;
+  float: left;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+#panel-container .panelDiv.disabled,
+#panel-container .panelDiv.middlePage {
+  cursor: no-drop;
+  color: #ccc;
+}
+
+#panel-container .panelDiv.clicked {
+  background: #337ab7;
+  border-color: #337ab7;
+}
+
+#panel-container .panelDiv.panelArrow {
+  background: #eee;
+}
+
+#panel-container .panelDiv:first-child {
+  margin-left: 30px;
+}
+
+#panel-container .panelDiv:not(.disabled):not(.middlePage):hover {
+  background: #ccc;
+  border-color: #ccc;
+}
+
+#panel-container #panelContent {
+  height: 25px;
+  line-height: 25px;
+  float: right;
+  margin: 15px 30px 0 0;
+}
+
+#panel-container #panelContent #pageSize,
+#panel-container #panelContent #gotoPage {
+  width: 20px;
+  font-size: 16px;
+}

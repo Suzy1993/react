@@ -1,0 +1,1 @@
+Components paginator by react-redux!
