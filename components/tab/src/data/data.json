@@ -1,0 +1,14 @@
+[
+  {
+  	"bar": "HTML5",
+  	"content": "This specification defines the 5th major revision of the core language of the World Wide Web: the Hypertext Markup Language (HTML). In this version, new features are introduced to help Web application authors, new elements are introduced based on research into prevailing authoring practices, and special attention has been given to defining clear conformance criteria for user agents in an effort to improve interoperability."
+  },
+  {
+  	"bar": "CSS3",
+  	"content": "CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1. It brings a lot of long-awaited novelties, like rounded corners, shadows, gradients, transitions or animations, as well as new layouts like multi-columns, flexible box or grid layouts. Experimental parts are vendor-prefixed and should either be avoided in production environments, or used with extreme caution as both their syntax and semantics can change in the future."
+  },
+  {
+  	"bar": "ES6",
+    "content": "ECMAScript 2015 is an ECMAScript standard that was ratified in June 2015."
+  }
+]
