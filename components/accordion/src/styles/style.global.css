@@ -1,0 +1,40 @@
+.nav_accordion {
+  width: 300px;
+  background: #999;
+  border: 1px #ccc solid;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.nav_accordion ul {
+  margin: 0;
+}
+
+.nav_accordion li.icon1 {
+  list-style-image : url("../images/icon1.png");
+}
+
+.nav_accordion li.icon2 {
+  list-style-image : url("../images/icon2.png");
+}
+
+.nav_accordion li.icon3 {
+  list-style-image : url("../images/icon3.png");
+}
+
+.nav_accordion li.icon4 {
+  list-style-image : url("../images/icon4.png");
+}
+
+.nav_accordion .item_name {
+  height: 30px;
+  line-height: 30px;
+}
+
+.ul_item {
+
+}
+
+.li_item {
+
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "level": "1",
+  	"name": "前端组",
+    "subItems": [
+      {
+        "id": 3,
+        "level": "2",
+        "name": "Web前端组",
+        "subItems": [
+          {
+            "id": 7,
+            "level": "3",
+            "name": "Web前端组B端",
+            "subItems": []
+          },
+          {
+            "id": 8,
+            "level": "3",
+            "name": "Web前端组C端",
+            "subItems": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "level": "2",
+        "name": "客户端组",
+        "subItems": [
+          {
+            "id": 9,
+            "level": "3",
+            "name": "IOS组",
+            "subItems": [
+              {
+                "id": 15,
+                "level": "4",
+                "name": "IOS组B端",
+                "subItems": []
+              },
+              {
+                "id": 16,
+                "level": "4",
+                "name": "IOS组C端",
+                "subItems": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "level": "3",
+            "name": "安卓组",
+            "subItems": [
+              {
+                "id": 17,
+                "level": "4",
+                "name": "安卓组B端",
+                "subItems": []
+              },
+              {
+                "id": 18,
+                "level": "4",
+                "name": "安卓组C端",
+                "subItems": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "1",
+    "name": "后端组",
+    "subItems": [
+      {
+        "id": 5,
+        "level": "2",
+        "name": "Java组",
+        "subItems": [
+          {
+            "id": 11,
+            "level": "3",
+            "name": "Java组B端",
+            "subItems": []
+          },
+          {
+            "id": 12,
+            "level": "3",
+            "name": "Java组C端",
+            "subItems": []
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "level": "2",
+        "name": "C++组",
+        "subItems": [
+          {
+            "id": 13,
+            "level": "3",
+            "name": "C++组B端",
+            "subItems": []
+          },
+          {
+            "id": 14,
+            "level": "3",
+            "name": "C++组C端",
+            "subItems": []
+          }
+        ]
+      }
+    ]
+  }
+]
