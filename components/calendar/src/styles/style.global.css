@@ -1,0 +1,96 @@
+#displayer-container {
+  width: 350px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+#calendar-container {
+  width: 350px;
+  height: 340px;
+  border: 1px solid #ccc;
+}
+
+#calendar-container .calendar-button {
+  width: 70px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  float: left;
+  border-radius: 5px;
+  background: #eee;
+  float: right;
+  cursor: pointer;
+  margin: 8px 20px;
+}
+
+#calendar-container .calendar-button:hover {
+  background: #ccc;
+}
+
+#switcher-container {
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #ccc;
+}
+
+#switcher-container .prevImg,
+#switcher-container .nextImg {
+  margin: 12px 3px;
+  cursor: pointer;
+}
+
+#switcher-container .prevImg {
+  float: left;
+}
+
+#switcher-container .nextImg {
+  float: right;
+}
+
+#switcher-container .selector {
+  width: 80px;
+  height: 25px;
+  margin: 5px 20px;
+  font-size: 14px;
+}
+
+#content-container {
+  width: 100%;
+  height: 252px;
+  line-height: 40px;
+  border-bottom: 1px solid #ccc;
+}
+
+#content-container table {
+  width: 100%;
+  height: 100%;
+  border-collapse: collapse;
+}
+
+#content-container th,
+#content-container td {
+  width: 50px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  padding: 0;
+}
+
+#content-container td {
+  cursor: pointer;
+}
+
+#content-container td.today {
+  color: red;
+}
+
+#content-container td.selected {
+  background: #eee;
+}
+
+#content-container td.days-of-another-month {
+  color: #ccc;
+}
