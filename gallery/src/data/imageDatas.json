@@ -1,0 +1,82 @@
+[
+  {
+    "fileName": "1.jpg",
+    "title": "你不知道的JavaScript(上卷)",
+    "desc": "《你不知道的JavaScript》系列让不求甚解的JavaScript开发者迎难而上，深入语言内部，弄清楚JavaScript每一个零部件的用途。本书介绍了该系列的两个主题：作用域和闭包及this和对象原型。掌握了这些知识之后，无论什么技术、框架和流行词语，你都能轻松理解。"
+  },
+  {
+    "fileName": "2.jpg",
+    "title": "深入浅出Node.js(第2版)",
+    "desc": "《深入浅出Node.js(第2版)》从不同的视角介绍了Node内在的特点和结构，适合想深入了解 Node 的人员阅读。"
+  },
+  {
+    "fileName": "3.jpg",
+    "title": "锋利的jQuery",
+    "desc": "《锋利的jQuery(第2版)》循序渐进地对jQuery的各种函数和方法调用进行了介绍，读者可以结合每个章节后面的案例演示进行练习，达到掌握核心知识点的目的。"
+  },
+  {
+    "fileName": "4.jpg",
+    "title": "JavaScript高级程序设计(第3版)",
+    "desc": "红宝书！《JavaScript高级程序设计(第3版)》是JavaScript超级畅销书的最新版，适合有一定编程经验的Web应用开发人员阅读，，也可作为高校及社会实用技术培训相关专业课程的教材。"
+  },
+  {
+    "fileName": "5.jpg",
+    "title": "JavaScript语言精粹(修订版)",
+    "desc": "蝴蝶书！《JavaScript语言精粹(修订版)》是一本介绍 JavaScript 语言本质的权威书籍，值得任何正在或准备从事JavaScript 开发的人阅读，并且需要反复阅读。学习、理解、实践大师的思想，我们才可能站在巨人的肩上，才有机会超越大师，这本书就是开始。"
+  },
+  {
+    "fileName": "6.jpg",
+    "title": "ECMAScript入门",
+    "desc": "《ECMAScript入门》为中级难度，适合已有一定JavaScript语言基础的读者，用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。"
+  },
+  {
+    "fileName": "7.jpg",
+    "title": "JavaScript权威指南(第5版)",
+    "desc": "犀牛书！《JavaScript权威指南(第5版)》全面介绍了JavaScript语言的核心，以及Web浏览器中实现的遗留和标准的DOM，还包括详细的参考手册。"
+  },
+  {
+    "fileName": "8.jpg",
+    "title": "CSS权威指南(第三版)",
+    "desc": "最新版《CSS权威指南》一书经过全面更新，涵盖了Internet Explorer 7，详细介绍了各个CSS属性以及属性之间的相互作用，并指导你如何避免一些常见的错误。不论你是一位经验丰富的web创作人员，还是一无所知的新手，都可以把它作为内容翔实的CSS参考资料放在手边。"
+  },
+  {
+    "fileName": "9.jpg",
+    "title": "Head First HTML5 Programming",
+    "desc": "A visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep."
+  },
+  {
+    "fileName": "10.jpg",
+    "title": "精通CSS高级Web标准解决方案",
+    "desc": "《精通CSS高级Web标准解决方案》汇集了最有用的CSS技术，介绍了CSS的基本概念和最佳实践，结合实例探讨了图像、链接和列表的操纵，还有表单设计、数据表格设计、纯CSS布局等核心CSS技术。本书适合具有HTML和CSS基础知识的读者阅读。"
+  },
+  {
+    "fileName": "11.jpg",
+    "title": "高性能JavaScript",
+    "desc": "《高性能JavaScript》揭示的技术和策略能帮助你在开发过程中消除性能瓶颈，介绍了页面代码加载的最佳方法和编程技巧，来帮助你编写更为高效和快速的代码。"
+  },
+  {
+    "fileName": "12.jpg",
+    "title": "JavaScript DOM编程艺术",
+    "desc": "《JavaScript DOM编程艺术》是超级畅销书的升级版，由倡导Web标准的领军人物执笔，揭示了前端开发的真谛，是学习JavaScript和DOM开发的必读之作。"
+  },
+  {
+    "fileName": "13.jpg",
+    "title": "编写可维护的JavaScript",
+    "desc": "编写可维护的JavaScript》向开发人员阐述了如何在团队开发中编写具备高可维护性的JavaScript代码，适合前端开发工程师、JavaScript程序员和学习JavaScript编程的读者阅读，也适合开发团队负责人、项目负责人阅读。"
+  },
+  {
+    "fileName": "14.jpg",
+    "title": "JavaScript设计模式与开发实践",
+    "desc": "《JavaScript设计模式与开发实践》在尊重《设计模式》原意的同时，针对JavaScript语言特性全面介绍了更适合JavaScript程序员的了16个常用的设计模式，将教会你如何把经典的设计模式应用到JavaScript语言中，编写出优美高效、结构化和可维护的代码。"
+  },
+  {
+    "fileName": "15.jpg",
+    "title": "CSS禅意花园",
+    "desc": "《CSS禅意花园》原版书自出版以来持续畅销，受到众多网站设计师的推崇。本书适合网站设计人员和网站设计爱好者阅读，更是专业网站设计师必读的经典著作。"
+  },
+  {
+    "fileName": "16.jpg",
+    "title": "JavaScript设计模式",
+    "desc": "《JavaScript设计模式》适合各层次的Web前端开发人员阅读和参考，也适合有C++/Java/C#背景的服务器端程序员学习。"
+  }
+]
